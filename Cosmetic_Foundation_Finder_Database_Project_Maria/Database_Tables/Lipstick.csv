@@ -1,0 +1,1582 @@
+﻿LipstickName,LipstickColor,Cost,BrandID
+CW14,Amaranth,22,1
+UC46,Amber,29,1
+XH96,Amethyst,28,1
+ID15,Apricot,27,1
+LY63,Aquamarine,38,1
+JJ15,Azure,8,1
+MQ40,Baby blue,25,1
+CI63,Beige,18,1
+ZE57,Brick red,42,1
+IW68,Black,21,1
+IG61,Blue,15,1
+OM47,Blue-green,44,1
+YK81,Blue-violet,13,1
+XN14,Blush,18,1
+XT16,Bronze,11,1
+QP52,Brown,25,1
+NY29,Burgundy,9,1
+JA97,Byzantium,41,1
+FQ72,Carmine,25,1
+UW32,Cerise,14,1
+IC78,Cerulean,16,1
+TX45,Champagne,15,1
+WX59,Chartreuse green,41,1
+GK36,Chocolate,29,1
+NC33,Cobalt blue,38,1
+HK10,Coffee,33,1
+EP35,Copper,14,1
+TC86,Coral,34,1
+ZK36,Crimson,18,1
+HP73,Cyan,14,1
+YD82,Desert sand,21,1
+RH78,Electric blue,17,1
+QC84,Emerald,14,2
+ZY19,Erin,9,2
+PC47,Gold,10,2
+EB63,Gray,28,2
+LI80,Green,28,2
+MX72,Harlequin,32,2
+SQ31,Indigo,28,2
+BZ78,Ivory,38,2
+YQ24,Jade,16,2
+VC53,Jungle green,34,2
+HP66,Lavender,28,2
+GP97,Lemon,24,2
+QS47,Lilac,22,2
+IN39,Lime,41,2
+TR59,Magenta,40,2
+CO24,Magenta rose,19,2
+SE78,Maroon,42,2
+JK43,Mauve,32,2
+HF49,Navy blue,12,2
+ZH39,Ochre,40,2
+RT51,Olive,38,2
+OL43,Orange,14,2
+TO99,Orange-red,15,2
+UW27,Orchid,27,2
+OE13,Peach,27,2
+IR67,Pear,30,2
+OJ32,Periwinkle,23,2
+OD86,Persian blue,27,2
+OQ57,Pink,17,2
+HA10,Plum,21,2
+RM92,Prussian blue,41,2
+PJ39,Puce,45,2
+DK60,Purple,10,3
+KM26,Raspberry,40,3
+ZW87,Red,28,3
+XZ36,Red-violet,36,3
+GO47,Rose,23,3
+TV79,Ruby,24,3
+GL18,Salmon,11,3
+IH91,Sangria,43,3
+EM94,Sapphire,31,3
+QG11,Scarlet,22,3
+GO71,Silver,22,3
+WZ93,Slate gray,42,3
+TU52,Spring bud,32,3
+LN31,Spring green,16,3
+PN62,Tan,10,3
+BK68,Taupe,42,3
+XH21,Teal,17,3
+TE32,Turquoise,9,3
+DV97,Ultramarine,9,3
+IB33,Violet,33,3
+NN45,Viridian,44,3
+IP29,White,28,3
+LZ40,Yellow,42,3
+SZ28,Amaranth,66,3
+HO71,Amber,22,3
+FZ12,Amethyst,52,3
+NQ51,Apricot,13,3
+TP64,Aquamarine,14,3
+DK99,Azure,65,3
+LB56,Baby blue,76,3
+CO79,Beige,21,3
+SM49,Brick red,32,3
+WL20,Black,74,4
+CP10,Blue,30,4
+SD20,Blue-green,10,4
+YF78,Blue-violet,14,4
+FR34,Blush,14,4
+IB11,Bronze,34,4
+TG47,Brown,50,4
+RJ42,Burgundy,68,4
+DJ57,Byzantium,8,4
+ZF17,Carmine,42,4
+AH57,Cerise,53,4
+XN57,Cerulean,51,4
+RV12,Champagne,25,4
+QO42,Chartreuse green,38,4
+HW70,Chocolate,23,4
+AS81,Cobalt blue,49,4
+WC28,Coffee,69,4
+FX99,Copper,58,4
+GX39,Coral,33,4
+YF82,Crimson,13,4
+GL77,Cyan,63,4
+LN25,Desert sand,65,4
+FI55,Electric blue,18,4
+FZ39,Emerald,30,4
+LW82,Erin,5,4
+AB74,Gold,63,4
+HC81,Gray,13,4
+TD54,Green,58,4
+PP53,Harlequin,13,4
+FC97,Indigo,11,4
+BW92,Ivory,30,4
+MG20,Jade,69,4
+DE65,Jungle green,32,5
+JO11,Lavender,7,5
+LU10,Lemon,36,5
+RW19,Lilac,65,5
+VH84,Lime,24,5
+XE85,Magenta,63,5
+VF15,Magenta rose,71,5
+HK22,Maroon,47,5
+OF73,Mauve,45,5
+PW74,Navy blue,32,5
+RR69,Ochre,5,5
+YS16,Olive,32,5
+FH32,Orange,47,5
+RY62,Orange-red,40,5
+FO94,Orchid,70,5
+DW33,Peach,25,5
+QX58,Pear,67,5
+UO77,Periwinkle,73,5
+JK19,Persian blue,8,5
+GB39,Pink,71,5
+HQ91,Plum,70,5
+YT26,Prussian blue,73,5
+RN97,Puce,14,5
+JV91,Purple,52,5
+CC52,Raspberry,10,5
+EQ34,Red,67,5
+AG45,Red-violet,40,5
+VL76,Rose,18,5
+NX24,Ruby,72,5
+NB89,Salmon,30,5
+CX17,Sangria,75,5
+EK54,Sapphire,52,5
+SQ91,Scarlet,45,6
+RL46,Silver,5,6
+WK22,Slate gray,48,6
+LY29,Spring bud,65,6
+FJ41,Spring green,49,6
+HE64,Tan,8,6
+HI85,Taupe,51,6
+GX33,Teal,58,6
+IE66,Turquoise,44,6
+PF61,Ultramarine,49,6
+IU89,Violet,13,6
+NX86,Viridian,21,6
+SH30,White,41,6
+NE88,Yellow,64,6
+YW96,Amaranth,8,6
+YM67,Amber,38,6
+PN73,Amethyst,64,6
+DT76,Apricot,11,6
+TB30,Aquamarine,72,6
+JZ37,Azure,35,6
+GU23,Baby blue,33,6
+ID30,Beige,44,6
+CL34,Brick red,40,6
+LZ29,Black,33,6
+JB92,Blue,7,6
+KY75,Blue-green,43,6
+VP31,Blue-violet,29,6
+MX67,Blush,16,6
+PZ18,Bronze,48,6
+WW78,Brown,7,6
+YG67,Burgundy,74,6
+PX88,Byzantium,71,6
+PO16,Carmine,72,7
+RC32,Cerise,57,7
+JD53,Cerulean,51,7
+GW11,Champagne,72,7
+IK31,Chartreuse green,31,7
+QX26,Chocolate,39,7
+MT87,Cobalt blue,25,7
+CR73,Coffee,22,7
+XJ50,Copper,72,7
+HP12,Coral,22,7
+ZK43,Crimson,24,7
+UA69,Cyan,44,7
+SQ63,Desert sand,14,7
+IW10,Electric blue,18,7
+WE61,Emerald,33,7
+WL28,Erin,61,7
+OI28,Gold,48,7
+VF29,Gray,41,7
+UT72,Green,11,7
+YV55,Harlequin,23,7
+FH23,Indigo,47,7
+AM53,Ivory,22,7
+MG74,Jade,28,7
+IX36,Jungle green,76,7
+KY66,Lavender,75,7
+SC34,Lemon,31,7
+WV98,Lilac,12,7
+PH47,Lime,14,7
+XQ16,Magenta,32,7
+PO58,Magenta rose,47,7
+BQ26,Maroon,20,7
+ZI93,Mauve,31,7
+CP64,Navy blue,22,8
+RA52,Ochre,61,8
+RO21,Olive,34,8
+WR37,Orange,37,8
+VL12,Orange-red,40,8
+VW30,Orchid,68,8
+IK81,Peach,51,8
+OE20,Pear,18,8
+FQ59,Periwinkle,56,8
+DU54,Persian blue,65,8
+WJ37,Pink,14,8
+GL20,Plum,55,8
+DQ99,Prussian blue,75,8
+TL47,Puce,72,8
+IV76,Purple,5,8
+TA42,Raspberry,15,8
+YZ84,Red,74,8
+QP14,Red-violet,76,8
+AO35,Rose,72,8
+OA55,Ruby,19,8
+HB95,Salmon,76,8
+HP95,Sangria,75,8
+NG87,Sapphire,41,8
+VW30,Scarlet,43,8
+MH43,Silver,22,8
+PH59,Slate gray,37,8
+RS67,Spring bud,13,8
+ZT97,Spring green,63,8
+NW41,Tan,35,8
+WE14,Taupe,73,8
+MZ66,Teal,67,8
+NW43,Turquoise,7,8
+FZ21,Ultramarine,69,9
+LM70,Violet,59,9
+UC32,Viridian,9,9
+ZP63,White,73,9
+XA33,Yellow,51,9
+BS57,Amaranth,33,9
+FC89,Amber,55,9
+DF43,Amethyst,76,9
+PA70,Apricot,33,9
+ZJ81,Aquamarine,44,9
+DU35,Azure,8,9
+SX44,Baby blue,42,9
+RQ19,Beige,71,9
+UY77,Brick red,38,9
+YU73,Black,57,9
+PO15,Blue,58,9
+OC82,Blue-green,22,9
+GL57,Blue-violet,36,9
+PY85,Blush,6,9
+RW40,Bronze,64,9
+PE28,Brown,54,9
+ML90,Burgundy,6,9
+CO15,Byzantium,28,9
+AS84,Carmine,6,9
+BC86,Cerise,75,9
+ET71,Cerulean,72,9
+SM24,Champagne,71,9
+DP37,Chartreuse green,36,9
+PB19,Chocolate,33,9
+VD18,Cobalt blue,11,9
+TQ75,Coffee,28,9
+IF25,Copper,36,9
+HF57,Coral,33,10
+QP97,Crimson,60,10
+ZH66,Cyan,52,10
+MS29,Desert sand,63,10
+YC48,Electric blue,16,10
+MV76,Emerald,66,10
+KL78,Erin,34,10
+PC93,Gold,22,10
+VS94,Gray,66,10
+UO11,Green,31,10
+KP87,Harlequin,60,10
+PV95,Indigo,22,10
+AC84,Ivory,25,10
+WA92,Jade,47,10
+BE12,Jungle green,33,10
+CY87,Lavender,14,10
+ID20,Lemon,11,10
+XH38,Lilac,42,10
+LU38,Lime,47,10
+UH33,Magenta,59,10
+BP28,Magenta rose,11,10
+IN77,Maroon,21,10
+DX91,Mauve,10,10
+LP17,Navy blue,15,10
+MU32,Ochre,5,10
+QE98,Olive,35,10
+BR84,Orange,63,10
+AA84,Orange-red,13,10
+EX77,Orchid,8,10
+AL55,Peach,11,10
+YN36,Pear,61,10
+VZ79,Periwinkle,34,10
+YT19,Persian blue,31,11
+JT80,Pink,21,11
+NL33,Plum,29,11
+HP86,Prussian blue,54,11
+OH17,Puce,38,11
+WM41,Purple,35,11
+OA26,Raspberry,34,11
+EC67,Red,15,11
+LH53,Red-violet,74,11
+VS31,Rose,17,11
+DY56,Ruby,37,11
+JG19,Salmon,25,11
+YR31,Sangria,45,11
+SJ51,Sapphire,43,11
+WM53,Scarlet,19,11
+HZ12,Silver,62,11
+WZ88,Slate gray,21,11
+SW48,Spring bud,52,11
+XG52,Spring green,20,11
+CQ45,Tan,49,11
+CC91,Taupe,42,11
+HB26,Teal,49,11
+UD86,Turquoise,76,11
+BE59,Ultramarine,38,11
+NJ29,Violet,59,11
+FU36,Viridian,9,11
+XY84,White,18,11
+VC48,Yellow,6,11
+MO49,Amaranth,29,11
+QY63,Amber,28,11
+UU49,Amethyst,71,11
+MX35,Apricot,5,11
+RU27,Aquamarine,43,12
+SZ16,Azure,55,12
+WJ40,Baby blue,46,12
+SW81,Beige,44,12
+ZN25,Brick red,28,12
+CA65,Black,30,12
+KB61,Blue,71,12
+YH96,Blue-green,61,12
+BA11,Blue-violet,29,12
+KJ46,Blush,31,12
+JW46,Bronze,62,12
+KB11,Brown,16,12
+NM82,Burgundy,7,12
+FA29,Byzantium,56,12
+DR60,Carmine,43,12
+MW22,Cerise,71,12
+PA29,Cerulean,14,12
+ND76,Champagne,62,12
+LR23,Chartreuse green,75,12
+RX18,Chocolate,19,12
+QW94,Cobalt blue,35,12
+VP66,Coffee,16,12
+QD20,Copper,7,12
+VQ49,Coral,48,12
+XC77,Crimson,55,12
+ZO80,Cyan,32,12
+YP94,Desert sand,36,12
+AU97,Electric blue,13,12
+OX92,Emerald,74,12
+AV58,Erin,8,12
+NL51,Gold,30,12
+CL99,Gray,48,12
+DL39,Green,6,13
+HB43,Harlequin,71,13
+CG56,Indigo,6,13
+HG62,Ivory,25,13
+LP64,Jade,39,13
+AX84,Jungle green,33,13
+MV32,Lavender,45,13
+MS57,Lemon,55,13
+KD77,Lilac,36,13
+OA71,Lime,13,13
+EC69,Magenta,64,13
+AF76,Magenta rose,61,13
+GE82,Maroon,43,13
+OF75,Mauve,62,13
+HT18,Navy blue,41,13
+ET65,Ochre,8,13
+LN76,Olive,69,13
+ZX97,Orange,39,13
+IL89,Orange-red,58,13
+WB27,Orchid,33,13
+UN20,Peach,32,13
+XB78,Pear,9,13
+JL65,Periwinkle,21,13
+PS19,Persian blue,42,13
+YT37,Pink,42,13
+UP70,Plum,55,13
+VU14,Prussian blue,64,13
+FO97,Puce,72,13
+TK34,Purple,71,13
+VR97,Raspberry,52,13
+TK56,Red,69,13
+HS31,Red-violet,11,13
+IZ92,Rose,8,14
+HM87,Ruby,25,14
+DA80,Salmon,54,14
+QP21,Sangria,63,14
+KO20,Sapphire,22,14
+RW31,Scarlet,27,14
+RS27,Silver,15,14
+PJ54,Slate gray,14,14
+SZ83,Spring bud,70,14
+JF62,Spring green,50,14
+AD31,Tan,76,14
+JH34,Taupe,75,14
+EZ65,Teal,18,14
+DM98,Turquoise,10,14
+QJ24,Ultramarine,20,14
+FH43,Violet,8,14
+FA64,Viridian,76,14
+GF20,White,67,14
+MR84,Yellow,68,14
+HT57,Amaranth,15,14
+XI67,Amber,37,14
+BZ95,Amethyst,66,14
+VV51,Apricot,11,14
+XN32,Aquamarine,72,14
+YR33,Azure,41,14
+NH44,Baby blue,18,14
+WT58,Beige,61,14
+ZV28,Brick red,45,14
+QM22,Black,74,14
+CF52,Blue,9,14
+VC46,Blue-green,55,14
+YI25,Blue-violet,27,14
+QK14,Blush,34,15
+YW31,Bronze,49,15
+LO45,Brown,13,15
+XN25,Burgundy,63,15
+KX18,Byzantium,48,15
+BN43,Carmine,56,15
+NJ71,Cerise,39,15
+GF31,Cerulean,32,15
+RK70,Champagne,53,15
+UR23,Chartreuse green,28,15
+SN50,Chocolate,10,15
+WY12,Cobalt blue,59,15
+XQ18,Coffee,33,15
+LJ44,Copper,30,15
+HD84,Coral,28,15
+RE79,Crimson,45,15
+ZG58,Cyan,59,15
+KZ11,Desert sand,25,15
+RT36,Electric blue,27,15
+WW74,Emerald,35,15
+AR76,Erin,23,15
+MZ62,Gold,27,15
+FG35,Gray,5,15
+ZA25,Green,11,15
+JI50,Harlequin,28,15
+HD18,Indigo,74,15
+IX93,Ivory,33,15
+QS17,Jade,32,15
+CA48,Jungle green,32,15
+BV72,Lavender,41,15
+DB78,Lemon,76,15
+TE84,Lilac,38,15
+ZV20,Lime,66,16
+UL42,Magenta,36,16
+VK20,Magenta rose,31,16
+VW66,Maroon,62,16
+CD29,Mauve,75,16
+LP61,Navy blue,29,16
+GC56,Ochre,75,16
+WI19,Olive,73,16
+OI80,Orange,51,16
+YL71,Orange-red,38,16
+SX81,Orchid,13,16
+QD41,Peach,19,16
+RQ14,Pear,63,16
+WU63,Periwinkle,20,16
+TJ48,Persian blue,73,16
+BB92,Pink,42,16
+LG92,Plum,18,16
+VK84,Prussian blue,33,16
+XK45,Puce,8,16
+JV40,Purple,65,16
+WJ84,Raspberry,19,16
+PK29,Red,25,16
+SU30,Red-violet,57,16
+UH57,Rose,57,16
+EM49,Ruby,67,16
+XZ61,Salmon,13,16
+PQ65,Sangria,32,16
+RQ36,Sapphire,12,16
+AA77,Scarlet,8,16
+GF92,Silver,9,16
+VJ88,Slate gray,21,16
+XM87,Spring bud,6,16
+DD32,Spring green,56,17
+MR69,Tan,36,17
+WE90,Taupe,20,17
+PY72,Teal,55,17
+BK39,Turquoise,41,17
+GW81,Ultramarine,22,17
+PD53,Violet,59,17
+JI89,Viridian,74,17
+QC44,White,69,17
+JU80,Yellow,56,17
+TO76,Amaranth,20,17
+VH45,Amber,20,17
+LB54,Amethyst,56,17
+AF91,Apricot,46,17
+EC80,Aquamarine,8,17
+UY82,Azure,44,17
+UP76,Baby blue,54,17
+AB59,Beige,23,17
+LS68,Brick red,8,17
+PG81,Black,46,17
+ZQ45,Blue,12,17
+KV18,Blue-green,62,17
+RB78,Blue-violet,37,17
+VH95,Blush,37,17
+XU95,Bronze,64,17
+ZG41,Brown,13,17
+NG88,Burgundy,35,17
+FB50,Byzantium,27,17
+RA10,Carmine,37,17
+BM48,Cerise,44,17
+WZ72,Cerulean,31,17
+BU37,Champagne,34,17
+DK27,Chartreuse green,24,18
+WF58,Chocolate,68,18
+MM82,Cobalt blue,19,18
+UE56,Coffee,28,18
+MQ97,Copper,59,18
+PH37,Coral,56,18
+JK28,Crimson,59,18
+YY77,Cyan,22,18
+BD27,Desert sand,42,18
+NI78,Electric blue,35,18
+XD31,Emerald,28,18
+KV14,Erin,22,18
+LN75,Gold,33,18
+SU95,Gray,68,18
+WI83,Green,26,18
+DH32,Harlequin,34,18
+EQ27,Indigo,68,18
+UR39,Ivory,72,18
+JV34,Jade,51,18
+LX88,Jungle green,20,18
+IM94,Lavender,67,18
+AE66,Lemon,30,18
+OD29,Lilac,55,18
+CF41,Lime,25,18
+NR49,Magenta,31,18
+QP16,Magenta rose,27,18
+ZQ40,Maroon,69,18
+HW85,Mauve,16,18
+IU57,Navy blue,9,18
+NC85,Ochre,26,18
+IC16,Olive,38,18
+TR25,Orange,47,18
+YG92,Orange-red,45,19
+KT88,Orchid,43,19
+XS16,Peach,15,19
+QE64,Pear,29,19
+UN45,Periwinkle,27,19
+BN32,Persian blue,75,19
+BH91,Pink,42,19
+DU96,Plum,64,19
+ZR77,Prussian blue,23,19
+NK19,Puce,70,19
+OK10,Purple,33,19
+RZ52,Raspberry,38,19
+QI11,Red,71,19
+DF31,Red-violet,13,19
+TW18,Rose,76,19
+CD20,Ruby,76,19
+TW24,Salmon,33,19
+IY77,Sangria,9,19
+NG81,Sapphire,69,19
+AY14,Scarlet,58,19
+CJ28,Silver,25,19
+DQ54,Slate gray,71,19
+CW95,Spring bud,25,19
+IN45,Spring green,57,19
+VA23,Tan,73,19
+FB84,Taupe,31,19
+OQ86,Teal,29,19
+PD95,Turquoise,17,19
+JC35,Ultramarine,11,19
+SL60,Violet,66,19
+PE26,Viridian,65,19
+IK39,White,59,19
+HX16,Yellow,39,20
+BK11,Amaranth,49,20
+FO16,Amber,51,20
+YO18,Amethyst,38,20
+KB21,Apricot,45,20
+IC94,Aquamarine,9,20
+BF56,Azure,20,20
+HY20,Baby blue,47,20
+QL29,Beige,71,20
+OY63,Brick red,44,20
+GG19,Black,64,20
+BU85,Blue,50,20
+GI13,Blue-green,32,20
+WW97,Blue-violet,53,20
+IK62,Blush,54,20
+BM99,Bronze,16,20
+EI92,Brown,20,20
+IO55,Burgundy,46,20
+MJ28,Byzantium,75,20
+AX37,Carmine,42,20
+DO97,Cerise,57,20
+JU83,Cerulean,69,20
+GN71,Champagne,68,20
+AK79,Chartreuse green,8,20
+XI60,Chocolate,42,20
+YV32,Cobalt blue,48,20
+VU81,Coffee,36,20
+QP59,Copper,59,20
+ZV88,Coral,17,20
+PL19,Crimson,7,20
+NE55,Cyan,12,20
+PS60,Desert sand,42,20
+LY15,Electric blue,24,21
+YR66,Emerald,18,21
+UN76,Erin,52,21
+OP28,Gold,39,21
+HK65,Gray,37,21
+SE17,Green,7,21
+MI21,Harlequin,64,21
+CL24,Indigo,20,21
+LR19,Ivory,41,21
+EH71,Jade,6,21
+MO30,Jungle green,24,21
+VV46,Lavender,31,21
+KY37,Lemon,11,21
+FQ84,Lilac,17,21
+CA47,Lime,43,21
+CN37,Magenta,6,21
+OY72,Magenta rose,50,21
+AD61,Maroon,23,21
+TM52,Mauve,36,21
+OG45,Navy blue,57,21
+ZG21,Ochre,52,21
+RD30,Olive,64,21
+DV11,Orange,48,21
+LU68,Orange-red,66,21
+LU53,Orchid,19,21
+UX86,Peach,7,21
+MF87,Pear,11,21
+XY86,Periwinkle,20,21
+ZU33,Persian blue,16,21
+UP51,Pink,19,21
+IO67,Plum,50,21
+LB91,Prussian blue,37,21
+AV90,Puce,50,22
+UI19,Purple,11,22
+EQ42,Raspberry,67,22
+SM45,Red,48,22
+WZ51,Red-violet,31,22
+HR96,Rose,23,22
+TQ49,Ruby,14,22
+WS65,Salmon,44,22
+KU20,Sangria,11,22
+OY82,Sapphire,44,22
+XX35,Scarlet,29,22
+QL49,Silver,7,22
+EN76,Slate gray,63,22
+SX17,Spring bud,63,22
+ZI68,Spring green,61,22
+QP68,Tan,62,22
+UB30,Taupe,19,22
+CO79,Teal,11,22
+GM53,Turquoise,59,22
+WS47,Ultramarine,17,22
+JD93,Violet,52,22
+AS33,Viridian,70,22
+KY20,White,68,22
+MV96,Yellow,19,22
+XG76,Amaranth,54,22
+TV74,Amber,74,22
+ZL10,Amethyst,7,22
+AK60,Apricot,12,22
+UZ90,Aquamarine,56,22
+BE73,Azure,57,22
+FZ94,Baby blue,12,22
+ZL15,Beige,67,22
+GP50,Brick red,72,23
+SC34,Black,65,23
+EL64,Blue,52,23
+VO18,Blue-green,73,23
+YA26,Blue-violet,66,23
+JN33,Blush,32,23
+SN78,Bronze,50,23
+HZ47,Brown,41,23
+ME79,Burgundy,52,23
+RG44,Byzantium,42,23
+OD42,Carmine,11,23
+ZN68,Cerise,47,23
+CE99,Cerulean,9,23
+ZC66,Champagne,5,23
+FA87,Chartreuse green,27,23
+TE75,Chocolate,18,23
+PT72,Cobalt blue,27,23
+QC84,Coffee,9,23
+LZ10,Copper,41,23
+GP74,Coral,12,23
+WK70,Crimson,59,23
+KC39,Cyan,54,23
+RV68,Desert sand,67,23
+JE57,Electric blue,74,23
+MY33,Emerald,21,23
+GG23,Erin,74,23
+BV32,Gold,16,23
+QE41,Gray,39,23
+KW40,Green,68,23
+VP90,Harlequin,62,23
+OU52,Indigo,8,23
+EO85,Ivory,43,23
+QF80,Jade,56,24
+IP78,Jungle green,18,24
+ME11,Lavender,51,24
+NA33,Lemon,19,24
+DH13,Lilac,5,24
+CF55,Lime,46,24
+KT38,Magenta,6,24
+LY84,Magenta rose,29,24
+PI79,Maroon,64,24
+NI49,Mauve,52,24
+JY19,Navy blue,72,24
+UV45,Ochre,57,24
+YY79,Olive,76,24
+YR43,Orange,16,24
+WR25,Orange-red,39,24
+SZ19,Orchid,53,24
+NK59,Peach,24,24
+SP13,Pear,38,24
+XV90,Periwinkle,25,24
+LG86,Persian blue,21,24
+CV34,Pink,8,24
+JN22,Plum,12,24
+CK68,Prussian blue,5,24
+PI11,Puce,58,24
+GB61,Purple,12,24
+EZ62,Raspberry,60,24
+HF78,Red,6,24
+YW88,Red-violet,50,24
+YB96,Rose,9,24
+FR51,Ruby,23,24
+XA28,Salmon,14,24
+AM74,Sangria,24,24
+TE90,Sapphire,63,25
+CR14,Scarlet,25,25
+AU17,Silver,9,25
+IX45,Slate gray,23,25
+RL95,Spring bud,58,25
+OD80,Spring green,55,25
+PX39,Tan,31,25
+FU29,Taupe,33,25
+QS25,Teal,11,25
+EK24,Turquoise,51,25
+VB66,Ultramarine,76,25
+QP62,Violet,13,25
+AX55,Viridian,30,25
+KV38,White,11,25
+BS16,Yellow,36,25
+EH68,Amaranth,34,25
+GV52,Amber,36,25
+ZU62,Amethyst,26,25
+LS10,Apricot,59,25
+DZ43,Aquamarine,23,25
+SO85,Azure,11,25
+SN95,Baby blue,14,25
+JE25,Beige,70,25
+WC62,Brick red,67,25
+FF37,Black,65,25
+PE73,Blue,22,25
+MH69,Blue-green,44,25
+DM36,Blue-violet,29,25
+VW63,Blush,57,25
+EC15,Bronze,6,25
+DE52,Brown,12,25
+ER21,Burgundy,6,25
+CU55,Byzantium,10,26
+YR45,Carmine,24,26
+AA56,Cerise,24,26
+EO87,Cerulean,12,26
+WT55,Champagne,9,26
+BE23,Chartreuse green,31,26
+TG91,Chocolate,56,26
+SQ22,Cobalt blue,36,26
+BW64,Coffee,75,26
+MG11,Copper,28,26
+XS39,Coral,42,26
+SS16,Crimson,37,26
+TP35,Cyan,58,26
+IV40,Desert sand,56,26
+LE62,Electric blue,29,26
+QN64,Emerald,56,26
+SY62,Erin,57,26
+MB76,Gold,67,26
+XL45,Gray,25,26
+TQ90,Green,72,26
+XW42,Harlequin,73,26
+MK66,Indigo,12,26
+BM31,Ivory,60,26
+NN19,Jade,11,26
+KT13,Jungle green,37,26
+VB38,Lavender,6,26
+QB79,Lemon,20,26
+XK40,Lilac,60,26
+UH60,Lime,9,26
+ML11,Magenta,10,26
+NT68,Magenta rose,55,26
+UG44,Maroon,47,26
+ON39,Mauve,22,27
+WA65,Navy blue,64,27
+GF43,Ochre,5,27
+CO77,Olive,21,27
+LV38,Orange,47,27
+LZ63,Orange-red,5,27
+BO40,Orchid,53,27
+QS77,Peach,31,27
+CO71,Pear,64,27
+GI38,Periwinkle,39,27
+XE56,Persian blue,28,27
+GU68,Pink,22,27
+WF45,Plum,47,27
+XK98,Prussian blue,19,27
+GA53,Puce,76,27
+OX38,Purple,38,27
+RE71,Raspberry,11,27
+GI28,Red,56,27
+SN79,Red-violet,7,27
+NQ22,Rose,53,27
+UA88,Ruby,67,27
+MJ58,Salmon,26,27
+LA57,Sangria,43,27
+IE94,Sapphire,59,27
+WZ42,Scarlet,70,27
+QV51,Silver,51,27
+MD85,Slate gray,69,27
+NP86,Spring bud,58,27
+LL51,Spring green,43,27
+AF73,Tan,71,27
+SX37,Taupe,29,27
+NL30,Teal,72,27
+YI14,Turquoise,53,28
+WI31,Ultramarine,29,28
+RC15,Violet,75,28
+VP20,Viridian,43,28
+GB76,White,21,28
+SQ93,Yellow,53,28
+CX75,Amaranth,32,28
+UO43,Amber,71,28
+KU57,Amethyst,11,28
+RP20,Apricot,42,28
+RV57,Aquamarine,42,28
+CJ34,Azure,23,28
+LT65,Baby blue,58,28
+NW63,Beige,67,28
+TO15,Brick red,27,28
+QX56,Black,25,28
+QR53,Blue,7,28
+PU62,Blue-green,14,28
+SM30,Blue-violet,33,28
+YM93,Blush,35,28
+OQ57,Bronze,56,28
+EF49,Brown,74,28
+JD97,Burgundy,20,28
+UR44,Byzantium,18,28
+ZZ93,Carmine,58,28
+CX72,Cerise,60,28
+NU72,Cerulean,32,28
+UZ41,Champagne,28,28
+LV41,Chartreuse green,57,28
+WW33,Chocolate,51,28
+TR82,Cobalt blue,18,28
+VW78,Coffee,60,28
+HA76,Copper,58,29
+CK56,Coral,8,29
+NQ54,Crimson,41,29
+UZ29,Cyan,38,29
+FE31,Desert sand,19,29
+KY88,Electric blue,27,29
+HH34,Emerald,75,29
+LM77,Erin,74,29
+DK80,Gold,61,29
+ZR78,Gray,27,29
+NZ99,Green,31,29
+KC86,Harlequin,10,29
+QN47,Indigo,33,29
+MF98,Ivory,9,29
+WT43,Jade,57,29
+CG67,Jungle green,15,29
+UE54,Lavender,38,29
+FK87,Lemon,47,29
+DP16,Lilac,24,29
+DZ15,Lime,24,29
+BT55,Magenta,25,29
+ON26,Magenta rose,63,29
+NY87,Maroon,72,29
+TN82,Mauve,15,29
+TM64,Navy blue,59,29
+EB20,Ochre,42,29
+ZT16,Olive,11,29
+NC94,Orange,34,29
+ZD98,Orange-red,29,29
+VR81,Orchid,10,29
+CR34,Peach,13,29
+ND64,Pear,65,29
+SP33,Periwinkle,32,30
+KA23,Persian blue,35,30
+IA36,Pink,10,30
+HT19,Plum,24,30
+NA33,Prussian blue,15,30
+IN31,Puce,12,30
+EJ97,Purple,32,30
+YI26,Raspberry,6,30
+BK70,Red,23,30
+AW61,Red-violet,40,30
+PO77,Rose,18,30
+XF17,Ruby,51,30
+JC80,Salmon,60,30
+IW16,Sangria,19,30
+WL32,Sapphire,7,30
+YA62,Scarlet,24,30
+EV95,Silver,60,30
+WM16,Slate gray,51,30
+ZM41,Spring bud,8,30
+RT89,Spring green,37,30
+KQ45,Tan,19,30
+LG18,Taupe,45,30
+IG77,Teal,53,30
+ZZ53,Turquoise,22,30
+FM84,Ultramarine,32,30
+DC66,Violet,39,30
+BB62,Viridian,11,30
+CA59,White,16,30
+UZ17,Yellow,75,30
+ST56,Amaranth,75,30
+TE13,Amber,35,30
+ZM63,Amethyst,33,30
+EL31,Apricot,18,31
+WK35,Aquamarine,32,31
+YJ89,Azure,15,31
+CU28,Baby blue,44,31
+OQ15,Beige,24,31
+BI92,Brick red,47,31
+RC31,Black,64,31
+DW78,Blue,23,31
+HA36,Blue-green,40,31
+PV40,Blue-violet,10,31
+JM71,Blush,37,31
+NI65,Bronze,65,31
+GX98,Brown,45,31
+PR56,Burgundy,16,31
+PQ48,Byzantium,45,31
+FY16,Carmine,72,31
+CY76,Cerise,21,31
+FB53,Cerulean,46,31
+BT51,Champagne,47,31
+AC91,Chartreuse green,55,31
+JP26,Chocolate,26,31
+UQ61,Cobalt blue,52,31
+GO68,Coffee,6,31
+AR29,Copper,69,31
+ZZ73,Coral,67,31
+VK70,Crimson,19,31
+CU89,Cyan,60,31
+RN62,Desert sand,9,31
+ZX65,Electric blue,31,31
+MZ11,Emerald,70,31
+XH49,Erin,17,31
+VS47,Gold,24,31
+KN85,Gray,61,32
+KG23,Green,16,32
+ZI24,Harlequin,9,32
+JS52,Indigo,55,32
+MU52,Ivory,58,32
+JB87,Jade,14,32
+JF76,Jungle green,30,32
+MB69,Lavender,54,32
+TQ17,Lemon,24,32
+NW82,Lilac,15,32
+RF81,Lime,23,32
+AI49,Magenta,12,32
+FJ83,Magenta rose,75,32
+OB16,Maroon,53,32
+ZC14,Mauve,73,32
+OV14,Navy blue,15,32
+VP73,Ochre,8,32
+BH75,Olive,13,32
+VM70,Orange,7,32
+LZ26,Orange-red,29,32
+HZ76,Orchid,18,32
+TT24,Peach,46,32
+GM96,Pear,52,32
+LE25,Periwinkle,38,32
+WM71,Persian blue,65,32
+WD41,Pink,67,32
+NG32,Plum,60,32
+IO49,Prussian blue,31,32
+UP41,Puce,10,32
+VZ37,Purple,24,32
+RO71,Raspberry,64,32
+ZR27,Red,22,32
+EI98,Red-violet,24,33
+OR52,Rose,33,33
+VI67,Ruby,11,33
+KH52,Salmon,30,33
+AR49,Sangria,65,33
+XJ98,Sapphire,75,33
+YU87,Scarlet,24,33
+OH53,Silver,43,33
+WS12,Slate gray,43,33
+FX53,Spring bud,67,33
+FQ41,Spring green,76,33
+BN93,Tan,21,33
+KU46,Taupe,74,33
+MB66,Teal,59,33
+MV20,Turquoise,9,33
+UO71,Ultramarine,33,33
+FA10,Violet,68,33
+XB57,Viridian,30,33
+YX52,White,12,33
+DC16,Yellow,65,33
+XI88,Amaranth,6,33
+BD51,Amber,52,33
+HO90,Amethyst,32,33
+QO38,Apricot,39,33
+WL43,Aquamarine,27,33
+IE35,Azure,45,33
+IU55,Baby blue,49,33
+BE17,Beige,76,33
+HB22,Brick red,58,33
+EW92,Black,55,33
+XM13,Blue,35,33
+KM37,Blue-green,44,33
+GZ46,Blue-violet,8,34
+RE33,Blush,60,34
+ZY82,Bronze,12,34
+RB58,Brown,61,34
+XZ69,Burgundy,65,34
+PV40,Byzantium,43,34
+BT84,Carmine,52,34
+XB22,Cerise,13,34
+CS94,Cerulean,5,34
+DP69,Champagne,75,34
+KK97,Chartreuse green,42,34
+YN39,Chocolate,42,34
+ET15,Cobalt blue,66,34
+OV63,Coffee,54,34
+IP46,Copper,54,34
+WS64,Coral,18,34
+YT13,Crimson,34,34
+FH41,Cyan,8,34
+WG75,Desert sand,20,34
+FC64,Electric blue,72,34
+HG11,Emerald,21,34
+KD20,Erin,56,34
+YY55,Gold,15,34
+QC92,Gray,9,34
+WC71,Green,43,34
+RO28,Harlequin,70,34
+TO56,Indigo,24,34
+DO11,Ivory,61,34
+LR26,Jade,37,34
+RX24,Jungle green,59,34
+OG58,Lavender,20,34
+HE23,Lemon,54,34
+RJ19,Lilac,56,35
+KV21,Lime,46,35
+JL26,Magenta,52,35
+MD54,Magenta rose,22,35
+SM21,Maroon,16,35
+WS80,Mauve,15,35
+DJ22,Navy blue,29,35
+EY36,Ochre,57,35
+XX91,Olive,52,35
+TO50,Orange,16,35
+LO77,Orange-red,30,35
+SR66,Orchid,53,35
+IZ26,Peach,44,35
+BZ36,Pear,6,35
+XT51,Periwinkle,26,35
+QB96,Persian blue,37,35
+IN45,Pink,29,35
+ZV85,Plum,19,35
+YJ11,Prussian blue,45,35
+FH84,Puce,22,35
+VH15,Purple,59,35
+JB71,Raspberry,19,35
+KW55,Red,8,35
+WV53,Red-violet,36,35
+VH34,Rose,34,35
+FI65,Ruby,60,35
+LF67,Salmon,43,35
+TN78,Sangria,61,35
+IR35,Sapphire,74,35
+CQ93,Scarlet,21,35
+YB16,Silver,10,35
+LF94,Slate gray,37,35
+HZ55,Spring bud,39,36
+KO24,Spring green,32,36
+WR67,Tan,41,36
+ZU68,Taupe,41,36
+CC80,Teal,16,36
+EF76,Turquoise,58,36
+BZ54,Ultramarine,13,36
+CY77,Violet,70,36
+ZM75,Viridian,38,36
+WV87,White,45,36
+TQ97,Yellow,70,36
+OS50,Amaranth,17,36
+FU92,Amber,12,36
+IU83,Amethyst,39,36
+KX75,Apricot,17,36
+RK95,Aquamarine,11,36
+ME65,Azure,41,36
+WF71,Baby blue,6,36
+QF96,Beige,39,36
+QL91,Brick red,28,36
+DP54,Black,36,36
+ZL77,Blue,16,36
+CR15,Blue-green,42,36
+CD98,Blue-violet,71,36
+UW43,Blush,39,36
+ZL41,Bronze,11,36
+JW67,Brown,10,36
+MU80,Burgundy,52,36
+HP19,Byzantium,70,36
+YG97,Carmine,31,36
+CQ57,Cerise,28,36
+GR90,Cerulean,67,36
+PV68,Champagne,17,37
+DO58,Chartreuse green,26,37
+NH86,Chocolate,46,37
+GJ25,Cobalt blue,25,37
+DU62,Coffee,16,37
+CU37,Copper,39,37
+MA77,Coral,39,37
+IP39,Crimson,49,37
+QG12,Cyan,61,37
+AY26,Desert sand,60,37
+PR63,Electric blue,41,37
+YT82,Emerald,70,37
+LI22,Erin,42,37
+KU68,Gold,10,37
+EY51,Gray,70,37
+AG86,Green,20,37
+BK57,Harlequin,49,37
+EK17,Indigo,37,37
+XO69,Ivory,66,37
+LQ60,Jade,52,37
+SE77,Jungle green,47,37
+CJ53,Lavender,31,37
+RO64,Lemon,38,37
+LO27,Lilac,55,37
+LZ73,Lime,37,37
+NC47,Magenta,44,37
+VT36,Magenta rose,28,37
+UK10,Maroon,61,37
+BW23,Mauve,67,37
+FV73,Navy blue,28,37
+TX71,Ochre,11,37
+PS13,Olive,34,37
+WI53,Orange,37,38
+HA83,Orange-red,6,38
+FC82,Orchid,27,38
+DR53,Peach,65,38
+RL47,Pear,5,38
+GF88,Periwinkle,30,38
+GL56,Persian blue,55,38
+ZU84,Pink,16,38
+ZR34,Plum,70,38
+DR12,Prussian blue,27,38
+VU99,Puce,53,38
+GP53,Purple,65,38
+AI68,Raspberry,56,38
+VQ50,Red,69,38
+BH69,Red-violet,22,38
+TU26,Rose,52,38
+RJ58,Ruby,48,38
+QX24,Salmon,36,38
+EH34,Sangria,18,38
+EV95,Sapphire,12,38
+PR34,Scarlet,13,38
+EK35,Silver,49,38
+FQ87,Slate gray,55,38
+NM13,Spring bud,75,38
+MO10,Spring green,26,38
+FP34,Tan,5,38
+WG54,Taupe,25,38
+IL93,Teal,57,38
+JV80,Turquoise,51,38
+UV49,Ultramarine,15,38
+XC75,Violet,54,38
+FH37,Viridian,32,38
+TD67,White,11,39
+VH87,Yellow,51,39
+TS13,Amaranth,74,39
+NG98,Amber,31,39
+VO75,Amethyst,44,39
+MX98,Apricot,16,39
+UX92,Aquamarine,50,39
+AH54,Azure,43,39
+EL94,Baby blue,62,39
+PE42,Beige,6,39
+PC15,Brick red,17,39
+RL51,Black,33,39
+WW37,Blue,9,39
+VC94,Blue-green,43,39
+ZX84,Blue-violet,53,39
+JE25,Blush,20,39
+IW23,Bronze,62,39
+MO65,Brown,27,39
+PC13,Burgundy,75,39
+KF14,Byzantium,12,39
+CG50,Carmine,19,39
+YK81,Cerise,66,39
+EF89,Cerulean,16,39
+VH56,Champagne,50,39
+BW51,Chartreuse green,52,39
+HQ11,Chocolate,45,39
+XQ57,Cobalt blue,29,39
+BE32,Coffee,63,39
+MC47,Copper,47,39
+JQ32,Coral,35,39
+VG90,Crimson,58,39
+HZ88,Cyan,27,39
+RY37,Desert sand,43,40
+MY91,Electric blue,41,40
+NF74,Emerald,31,40
+MP23,Erin,75,40
+BW70,Gold,9,40
+PC40,Gray,11,40
+EP25,Green,49,40
+IT93,Harlequin,63,40
+MF83,Indigo,49,40
+DH59,Ivory,70,40
+CC32,Jade,67,40
+FX62,Jungle green,45,40
+BN72,Lavender,59,40
+JQ50,Lemon,50,40
+QW78,Lilac,65,40
+XM52,Lime,50,40
+FM93,Magenta,45,40
+CG87,Magenta rose,43,40
+WZ67,Maroon,7,40
+UA64,Mauve,59,40
+MW36,Navy blue,42,40
+EP56,Ochre,36,40
+LD23,Olive,70,40
+QL20,Orange,39,40
+AK86,Orange-red,48,40
+UZ42,Orchid,42,40
+GW46,Peach,31,40
+HT82,Pear,60,40
+CE45,Periwinkle,23,40
+WA67,Persian blue,13,40
+ZN65,Pink,73,40
+NB23,Plum,26,40
+QA41,Prussian blue,50,41
+HI55,Puce,26,41
+MU21,Purple,8,41
+HP88,Raspberry,17,41
+WV15,Red,13,41
+II95,Red-violet,44,41
+EY26,Rose,73,41
+GY12,Ruby,44,41
+PQ35,Salmon,10,41
+AS82,Sangria,47,41
+UW98,Sapphire,21,41
+MK38,Scarlet,23,41
+AR89,Silver,19,41
+JW29,Slate gray,21,41
+PR24,Spring bud,57,41
+TJ16,Spring green,68,41
+AT87,Tan,51,41
+DD18,Taupe,14,41
+RU42,Teal,20,41
+IX50,Turquoise,67,41
+SL52,Ultramarine,22,41
+FG45,Violet,16,41
+TI43,Viridian,35,41
+GS15,White,28,41
+KE70,Yellow,60,41
+JG98,Amaranth,21,41
+PT74,Amber,41,41
+AS97,Amethyst,56,41
+EM29,Apricot,59,41
+QZ73,Aquamarine,18,41
+KP93,Azure,11,41
+WM94,Baby blue,19,41
+WX65,Beige,9,42
+US77,Brick red,57,42
+UW54,Black,21,42
+QF92,Blue,29,42
+HN80,Blue-green,40,42
+CL45,Blue-violet,55,42
+IP62,Blush,10,42
+PR62,Bronze,45,42
+CB91,Brown,6,42
+KI22,Burgundy,70,42
+TW74,Byzantium,5,42
+SE59,Carmine,13,42
+AC85,Cerise,44,42
+AY83,Cerulean,22,42
+QV81,Champagne,67,42
+EY60,Chartreuse green,45,42
+AB58,Chocolate,62,42
+JL48,Cobalt blue,55,42
+WS39,Coffee,9,42
+FX38,Copper,55,42
+PO18,Coral,63,42
+OH64,Crimson,49,42
+HV79,Cyan,58,42
+HQ41,Desert sand,56,42
+FC65,Electric blue,32,42
+FB94,Emerald,69,42
+IQ58,Erin,34,42
+QA56,Gold,40,42
+UZ83,Gray,21,42
+XW59,Green,71,42
+OD91,Harlequin,17,42
+SU81,Indigo,74,42
+LA91,Ivory,58,43
+BP59,Jade,66,43
+KJ25,Jungle green,49,43
+ZP33,Lavender,41,43
+KY47,Lemon,9,43
+XO97,Lilac,60,43
+VB55,Lime,27,43
+VJ39,Magenta,63,43
+IN81,Magenta rose,54,43
+NQ43,Maroon,7,43
+MX59,Mauve,52,43
+GM12,Navy blue,25,43
+MH79,Ochre,35,43
+ZB86,Olive,75,43
+UB35,Orange,58,43
+MS57,Orange-red,49,43
+JS16,Orchid,46,43
+HT75,Peach,38,43
+IB19,Pear,51,43
+JP72,Periwinkle,28,43
+XU82,Persian blue,69,43
+FG75,Pink,29,43
+UI41,Plum,11,43
+KK83,Prussian blue,10,43
+CJ19,Puce,57,43
+NN85,Purple,23,43
+KP10,Raspberry,47,43
+TC45,Red,71,43
+EV35,Red-violet,32,43
+PR75,Rose,60,43
+WW32,Ruby,57,43
+EJ77,Salmon,54,43
+ZT35,Sangria,53,44
+QB77,Sapphire,55,44
+UR69,Scarlet,49,44
+BI88,Silver,57,44
+HN57,Slate gray,35,44
+PB96,Spring bud,55,44
+GU30,Spring green,20,44
+GU90,Tan,25,44
+VP98,Taupe,15,44
+TN56,Teal,30,44
+RO80,Turquoise,73,44
+NB34,Ultramarine,73,44
+FG37,Violet,51,44
+RE53,Viridian,19,44
+QG62,White,53,44
+HD75,Yellow,39,44
+RE90,Amaranth,61,44
+EQ43,Amber,34,44
+DQ22,Amethyst,64,44
+WJ33,Apricot,69,44
+KY63,Aquamarine,23,44
+ZZ23,Azure,68,44
+WK93,Baby blue,40,44
+KK66,Beige,9,44
+XM92,Brick red,5,44
+HM66,Black,71,44
+KA22,Blue,75,44
+NP31,Blue-green,18,44
+WK70,Blue-violet,12,44
+EI66,Blush,53,44
+RU98,Bronze,25,44
+KF31,Brown,73,44
+JC67,Burgundy,11,45
+FC43,Byzantium,27,45
+MF44,Carmine,44,45
+ZS24,Cerise,52,45
+QZ26,Cerulean,22,45
+KX34,Champagne,61,45
+BO10,Chartreuse green,56,45
+HV11,Chocolate,61,45
+ZK19,Cobalt blue,58,45
+PF97,Coffee,44,45
+QZ80,Copper,42,45
+GP49,Coral,8,45
+QS58,Crimson,73,45
+AF23,Cyan,16,45
+IV73,Desert sand,30,45
+JM10,Electric blue,74,45
+AY72,Emerald,19,45
+IF12,Erin,48,45
+IM25,Gold,12,45
+YY18,Gray,47,45
+SC89,Green,38,45
+SI25,Harlequin,60,45
+AN45,Indigo,36,45
+AJ19,Ivory,35,45
+FJ56,Jade,41,45
+RB57,Jungle green,68,45
+KS82,Lavender,70,45
+KG84,Lemon,76,45
+DL82,Lilac,52,45
+XF33,Lime,48,45
+XT62,Magenta,39,45
+DR80,Magenta rose,31,45
+TW77,Maroon,33,46
+UM11,Mauve,36,46
+JO54,Navy blue,62,46
+MY81,Ochre,19,46
+EN38,Olive,30,46
+DB31,Orange,49,46
+KH80,Orange-red,64,46
+OE71,Orchid,33,46
+YF15,Peach,62,46
+DT63,Pear,11,46
+ZP69,Periwinkle,39,46
+HC51,Persian blue,76,46
+LP97,Pink,55,46
+NO39,Plum,69,46
+QD97,Prussian blue,9,46
+MT40,Puce,41,46
+TZ81,Purple,21,46
+KQ22,Raspberry,23,46
+IU13,Red,18,46
+MY91,Red-violet,33,46
+SN96,Rose,13,46
+FA44,Ruby,14,46
+NC48,Salmon,8,46
+TY62,Sangria,64,46
+ZG19,Sapphire,44,46
+GI19,Scarlet,66,46
+MU46,Silver,23,46
+AS42,Slate gray,57,46
+KH31,Spring bud,37,46
+MQ88,Spring green,9,46
+VD30,Tan,10,46
+BL66,Taupe,66,46
+XX21,Teal,33,47
+JE75,Turquoise,71,47
+LY47,Ultramarine,24,47
+HE99,Violet,47,47
+FU67,Viridian,55,47
+VV91,White,23,47
+UE33,Yellow,16,47
+RM58,Amaranth,42,47
+ZZ22,Amber,41,47
+IF27,Amethyst,37,47
+GK75,Apricot,29,47
+PX48,Aquamarine,27,47
+WR70,Azure,5,47
+KU35,Baby blue,75,47
+KT40,Beige,11,47
+MI51,Brick red,24,47
+NS23,Black,28,47
+MP21,Blue,16,47
+WY84,Blue-green,31,47
+OE34,Blue-violet,8,47
+KT83,Blush,5,47
+PR55,Bronze,13,47
+WZ80,Brown,6,47
+BO79,Burgundy,42,47
+VL14,Byzantium,27,47
+TT29,Carmine,68,47
+KJ28,Cerise,28,47
+WU32,Cerulean,59,47
+CN61,Champagne,68,47
+ES32,Chartreuse green,38,47
+YC21,Chocolate,6,47
+EU62,Cobalt blue,19,47
+UV89,Coffee,22,48
+IK65,Copper,19,48
+HM89,Coral,8,48
+ZZ27,Crimson,8,48
+MB63,Cyan,32,48
+EL48,Desert sand,43,48
+DB77,Electric blue,41,48
+GA94,Emerald,13,48
+OT18,Erin,27,48
+TX74,Gold,51,48
+HU95,Gray,75,48
+WJ67,Green,57,48
+GN61,Harlequin,72,48
+XI95,Indigo,40,48
+NY14,Ivory,7,48
+WV32,Jade,66,48
+LM51,Jungle green,30,48
+HW82,Lavender,20,48
+OX40,Lemon,61,48
+OT79,Lilac,65,48
+ZR27,Lime,67,48
+KO50,Magenta,72,48
+UL91,Magenta rose,12,48
+UZ65,Maroon,38,48
+SQ42,Mauve,47,48
+QC99,Navy blue,70,48
+KE30,Ochre,16,48
+JC36,Olive,39,48
+VZ19,Orange,40,48
+UZ81,Orange-red,8,48
+PI78,Orchid,51,48
+LD27,Peach,14,48
+HV35,Pear,54,49
+MS56,Periwinkle,73,49
+IQ51,Persian blue,29,49
+YT86,Pink,36,49
+FS20,Plum,64,49
+EG78,Prussian blue,47,49
+AZ69,Puce,23,49
+YM76,Purple,23,49
+UU56,Raspberry,47,49
+US60,Red,23,49
+VD75,Red-violet,24,49
+FS41,Rose,33,49
+KN71,Ruby,9,49
+ZF70,Salmon,54,49
+OO51,Sangria,26,49
+RG27,Sapphire,62,49
+QP25,Scarlet,11,49
+PJ64,Silver,62,49
+DI40,Slate gray,40,49
+JE98,Spring bud,27,49
+QP78,Spring green,54,49
+DL39,Tan,44,49
+TG37,Taupe,39,49
+AM56,Teal,70,49
+SA50,Turquoise,52,49
+KL41,Ultramarine,60,49
+LX30,Violet,14,49
+UV35,Viridian,58,49
+BX58,White,16,49
+ML62,Yellow,68,49
+MW22,Amaranth,66,49
+OU67,Amber,73,49
+AM15,Amethyst,50,50
+IZ35,Apricot,14,50
+JX93,Aquamarine,59,50
+BB41,Azure,20,50
+OS46,Baby blue,66,50
+II96,Beige,58,50
+IE68,Brick red,40,50
+HJ17,Black,11,50
+ZY73,Blue,15,50
+HT60,Blue-green,36,50
+HE55,Blue-violet,9,50
+WG74,Blush,47,50
+JX49,Bronze,30,50
